@@ -36,13 +36,14 @@ Cluster 4 (Spendthrift): High-income customers with high spending scores, markin
 Cluster 5 (Careful): Moderate income but relatively lower spending scores, suggesting budget-conscious behavior despite average earnings.
 
 ## Statistical Insights from Clustering
-1. Intra-Cluster Variability: Each cluster has distinct statistical characteristics that provide insights into spending patterns relative to income:
+Intra-Cluster Variability: Each cluster has distinct statistical characteristics that provide insights into spending patterns relative to income:
 
 Cluster 4 (Spendthrift) shows the highest income and spending variance, indicating that spending capacity grows with income among these customers.
 
 Cluster 1 (Miser) has low variance in both income and spending, suggesting a uniform approach to minimal spending within this group.
 
 Cluster Sizes-Distribution: Clusters vary in size, with the "General" group being the largest. This suggests that most customers fall into a moderate-income, moderate-spending range, ideal for regular promotions and discounts to increase engagement.
+
 Outlier Segment (Spendthrift): Though smaller in size, this cluster holds significant value due to high spending capacity. Targeting these customers with premium offerings could maximize revenue.
 
 ## Correlation Analysis
