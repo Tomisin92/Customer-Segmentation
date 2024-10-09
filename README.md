@@ -1,4 +1,4 @@
-# Mall Customer-Segmentation (Clustering)- K means 
+# Mall Customer Segmentation using K means clustering
 Objective
 The primary goal of this analysis is to identify unique customer segments by examining demographic and behavioral data. With segmentation, the mall can improve customer satisfaction, tailor marketing messages to each customer type, and maximize the effectiveness of marketing resources.
 
